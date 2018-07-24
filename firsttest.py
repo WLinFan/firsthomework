@@ -6,3 +6,5 @@ while True:
 	elif number >10:
 		exit()
 	print(number)
+
+#紧急修复bug
