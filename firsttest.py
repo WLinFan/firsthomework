@@ -8,3 +8,4 @@ while True:
 	print(number)
 
 #加入新功能
+#继续加入新功能
